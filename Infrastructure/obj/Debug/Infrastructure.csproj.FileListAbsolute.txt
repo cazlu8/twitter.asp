@@ -1,0 +1,11 @@
+C:\Users\lucas.reichert\Downloads\twitter\twitter\Infrastructure\bin\Debug\Infrastructure.dll.config
+C:\Users\lucas.reichert\Downloads\twitter\twitter\Infrastructure\bin\Debug\Infrastructure.dll
+C:\Users\lucas.reichert\Downloads\twitter\twitter\Infrastructure\bin\Debug\Infrastructure.pdb
+C:\Users\lucas.reichert\Downloads\twitter\twitter\Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\lucas.reichert\Downloads\twitter\twitter\Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lucas.reichert\Downloads\twitter\twitter\Infrastructure\bin\Debug\Moq.dll
+C:\Users\lucas.reichert\Downloads\twitter\twitter\Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\lucas.reichert\Downloads\twitter\twitter\Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lucas.reichert\Downloads\twitter\twitter\Infrastructure\bin\Debug\Moq.xml
+C:\Users\lucas.reichert\Downloads\twitter\twitter\Infrastructure\obj\Debug\Infrastructure.dll
+C:\Users\lucas.reichert\Downloads\twitter\twitter\Infrastructure\obj\Debug\Infrastructure.pdb

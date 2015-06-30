@@ -1,0 +1,16 @@
+C:\Users\lucas.reichert\Downloads\twitter\twitter\Infrastructure.Data\bin\Debug\Infrastructure.Data.dll.config
+C:\Users\lucas.reichert\Downloads\twitter\twitter\Infrastructure.Data\bin\Debug\Infrastructure.Data.dll
+C:\Users\lucas.reichert\Downloads\twitter\twitter\Infrastructure.Data\bin\Debug\Infrastructure.Data.pdb
+C:\Users\lucas.reichert\Downloads\twitter\twitter\Infrastructure.Data\bin\Debug\Domain.dll
+C:\Users\lucas.reichert\Downloads\twitter\twitter\Infrastructure.Data\bin\Debug\EntityFramework.dll
+C:\Users\lucas.reichert\Downloads\twitter\twitter\Infrastructure.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lucas.reichert\Downloads\twitter\twitter\Infrastructure.Data\bin\Debug\Infrastructure.dll
+C:\Users\lucas.reichert\Downloads\twitter\twitter\Infrastructure.Data\bin\Debug\Moq.dll
+C:\Users\lucas.reichert\Downloads\twitter\twitter\Infrastructure.Data\bin\Debug\Domain.pdb
+C:\Users\lucas.reichert\Downloads\twitter\twitter\Infrastructure.Data\bin\Debug\Infrastructure.pdb
+C:\Users\lucas.reichert\Downloads\twitter\twitter\Infrastructure.Data\bin\Debug\EntityFramework.xml
+C:\Users\lucas.reichert\Downloads\twitter\twitter\Infrastructure.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lucas.reichert\Downloads\twitter\twitter\Infrastructure.Data\bin\Debug\Moq.xml
+C:\Users\lucas.reichert\Downloads\twitter\twitter\Infrastructure.Data\obj\Debug\Infrastructure.Data.csprojResolveAssemblyReference.cache
+C:\Users\lucas.reichert\Downloads\twitter\twitter\Infrastructure.Data\obj\Debug\Infrastructure.Data.dll
+C:\Users\lucas.reichert\Downloads\twitter\twitter\Infrastructure.Data\obj\Debug\Infrastructure.Data.pdb
